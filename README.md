@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RikoPlayz
+- 👋 Hi, I’m @Avery
 -🤖 Discord Server, https://discord.com/invite/u5dhytcwRS
   
 <!---
