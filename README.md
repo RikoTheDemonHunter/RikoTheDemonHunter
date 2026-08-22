@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/RikoTheDemonHunter/V3/blob/main/Avy_upscaled.png?raw=true" alt="Avery's Welcome" width="180px">
+  <img src="https://github.com/RikoTheDemonHunter/V3/blob/main/Avy_upscaled.png?raw=true"alt="Avery's Welcome" width="180px">
 </h1>
 
 <div align="center">
