@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABS-Avery/AveryDrawz/main/Assets/Avery_Artz_Wink.png" alt="Avery's Welcome" width="180px">
+  <img src="https://github.com/RikoTheDemonHunter/V3/blob/main/.github/workflows/Avery.png" alt="Avery's Welcome" width="180px">
 </h1>
 
 <div align="center">
