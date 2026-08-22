@@ -45,15 +45,8 @@ sc config dmwappushservice start= disabled
 :: Disable Connected User Experiences and Telemetry via Registry
 reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\DataCollection" /v AllowTelemetry /t REG_DWORD /d 0 /f
 
-
-
-
-
-
 # Remove built-in bloatware applications
 Get-AppxPackage -AllUsers | Where-Object {$_.Name -notlike "*Store*" -and $_.Name -notlike "*Calculator*"} | Remove-AppxPackage -ErrorAction SilentlyContinue
 Get-AppxProvisionedPackage -Online | Where-Object {$_.DisplayName -notlike "*Store*" -and $_.DisplayName -notlike "*Calculator*"} | Remove-AppxProvisionedPackage -Online -ErrorAction SilentlyContinue
 <!---
-RikoTheDemonHunter/RikoTheDemonHunter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
